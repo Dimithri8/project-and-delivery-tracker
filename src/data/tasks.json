@@ -1,0 +1,137 @@
+[
+  {
+    "id": "task-001",
+    "sprintId": "spr-004",
+    "title": "Auth Flow",
+    "status": "todo",
+    "priority": "high",
+    "assigneeId": "mem-001",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "id": "task-002",
+    "sprintId": "spr-004",
+    "title": "DB Schema Review",
+    "status": "todo",
+    "priority": "medium",
+    "assigneeId": "mem-003",
+    "dueDate": "2026-04-01"
+  },
+  {
+    "id": "task-003",
+    "sprintId": "spr-004",
+    "title": "Write Unit Tests",
+    "status": "todo",
+    "priority": "low",
+    "assigneeId": "mem-002",
+    "dueDate": "2026-04-05"
+  },
+  {
+    "id": "task-004",
+    "sprintId": "spr-004",
+    "title": "Accessibility Audit",
+    "status": "todo",
+    "priority": "medium",
+    "assigneeId": "mem-004",
+    "dueDate": "2026-04-03"
+  },
+  {
+    "id": "task-005",
+    "sprintId": "spr-004",
+    "title": "API Integration Setup",
+    "status": "in-progress",
+    "priority": "high",
+    "assigneeId": "mem-002",
+    "dueDate": "2026-03-25"
+  },
+  {
+    "id": "task-006",
+    "sprintId": "spr-004",
+    "title": "UI Component Review",
+    "status": "in-progress",
+    "priority": "medium",
+    "assigneeId": "mem-001",
+    "dueDate": "2026-03-30"
+  },
+  {
+    "id": "task-007",
+    "sprintId": "spr-004",
+    "title": "Deployment Config",
+    "status": "in-progress",
+    "priority": "high",
+    "assigneeId": "mem-003",
+    "dueDate": "2026-03-27"
+  },
+  {
+    "id": "task-008",
+    "sprintId": "spr-004",
+    "title": "Login Page",
+    "status": "done",
+    "priority": "high",
+    "assigneeId": "mem-001",
+    "dueDate": "2026-02-20"
+  },
+  {
+    "id": "task-009",
+    "sprintId": "spr-004",
+    "title": "Navbar Design",
+    "status": "done",
+    "priority": "medium",
+    "assigneeId": "mem-003",
+    "dueDate": "2026-02-22"
+  },
+  {
+    "id": "task-010",
+    "sprintId": "spr-004",
+    "title": "Route Setup",
+    "status": "done",
+    "priority": "high",
+    "assigneeId": "mem-005",
+    "dueDate": "2026-02-18"
+  },
+  {
+    "id": "task-011",
+    "sprintId": "spr-006",
+    "title": "SMS Parser Module",
+    "status": "in-progress",
+    "priority": "high",
+    "assigneeId": "mem-001",
+    "dueDate": "2026-03-25"
+  },
+  {
+    "id": "task-012",
+    "sprintId": "spr-006",
+    "title": "Expense Categories UI",
+    "status": "todo",
+    "priority": "medium",
+    "assigneeId": "mem-003",
+    "dueDate": "2026-03-28"
+  },
+  {
+    "id": "task-013",
+    "sprintId": "spr-008",
+    "title": "Booking Flow Redesign",
+    "status": "in-progress",
+    "priority": "high",
+    "assigneeId": "mem-002",
+    "dueDate": "2026-03-20"
+  },
+  {
+    "id": "task-014",
+    "sprintId": "spr-008",
+    "title": "Design System Tokens",
+    "status": "todo",
+    "priority": "medium",
+    "assigneeId": "mem-005",
+    "dueDate": "2026-04-22"
+  },
+  {
+    "id": "task-015",
+    "sprintId": "spr-011",
+    "title": "Leave Request Form",
+    "status": "in-progress",
+    "priority": "high",
+    "assigneeId": "mem-004",
+    "dueDate": "2026-03-10"
+  }
+]

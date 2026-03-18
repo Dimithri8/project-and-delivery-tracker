@@ -1,0 +1,57 @@
+[
+  {
+    "id": "proj-001",
+    "name": "Accenture Portal",
+    "client": "Accenture",
+    "description": "Internal client portal with role-based access and real-time data dashboards.",
+    "status": "on-track",
+    "progress": 75,
+    "startDate": "2026-01-01",
+    "deadline": "2026-04-10",
+    "teamIds": ["mem-001", "mem-002", "mem-003", "mem-004", "mem-005"]
+  },
+  {
+    "id": "proj-002",
+    "name": "Kiwi Dashboard",
+    "client": "Kiwi Money",
+    "description": "Expense tracking dashboard for Kiwi Money's SMS-based finance platform.",
+    "status": "at-risk",
+    "progress": 30,
+    "startDate": "2026-01-15",
+    "deadline": "2026-03-28",
+    "teamIds": ["mem-001", "mem-003"]
+  },
+  {
+    "id": "proj-003",
+    "name": "Evently Redesign",
+    "client": "Evently Co",
+    "description": "Full redesign of the Evently event booking and management web platform.",
+    "status": "on-track",
+    "progress": 65,
+    "startDate": "2026-02-01",
+    "deadline": "2026-04-22",
+    "teamIds": ["mem-002", "mem-004", "mem-005"]
+  },
+  {
+    "id": "proj-004",
+    "name": "Brand System",
+    "client": "Internal",
+    "description": "Building a unified internal design and brand token system across all products.",
+    "status": "delayed",
+    "progress": 15,
+    "startDate": "2026-01-20",
+    "deadline": "2026-03-20",
+    "teamIds": ["mem-003", "mem-005"]
+  },
+  {
+    "id": "proj-005",
+    "name": "HR Self-Service Portal",
+    "client": "TechCorp",
+    "description": "Employee self-service portal for leave, payroll, and HR requests.",
+    "status": "on-track",
+    "progress": 50,
+    "startDate": "2026-02-10",
+    "deadline": "2026-05-01",
+    "teamIds": ["mem-001", "mem-002", "mem-004"]
+  }
+]

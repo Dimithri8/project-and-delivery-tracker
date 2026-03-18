@@ -1,0 +1,44 @@
+[
+  {
+    "id": "act-001",
+    "message": "John moved \"Auth Flow\" to Done",
+    "type": "task-update",
+    "projectId": "proj-001",
+    "timestamp": "2026-03-17T22:00:00"
+  },
+  {
+    "id": "act-002",
+    "message": "Sprint 4 started on Accenture Portal",
+    "type": "sprint-start",
+    "projectId": "proj-001",
+    "timestamp": "2026-03-17T21:00:00"
+  },
+  {
+    "id": "act-003",
+    "message": "Kiwi Dashboard marked At Risk",
+    "type": "status-change",
+    "projectId": "proj-002",
+    "timestamp": "2026-03-17T19:00:00"
+  },
+  {
+    "id": "act-004",
+    "message": "Sara completed \"Wireframes v2\"",
+    "type": "task-update",
+    "projectId": "proj-003",
+    "timestamp": "2026-03-17T17:00:00"
+  },
+  {
+    "id": "act-005",
+    "message": "Mike updated Brand System progress to 15%",
+    "type": "progress-update",
+    "projectId": "proj-004",
+    "timestamp": "2026-03-17T15:00:00"
+  },
+  {
+    "id": "act-006",
+    "message": "Priya flagged \"Leave Request Form\" as high priority",
+    "type": "task-update",
+    "projectId": "proj-005",
+    "timestamp": "2026-03-17T13:00:00"
+  }
+]

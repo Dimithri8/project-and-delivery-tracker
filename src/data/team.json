@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mem-001",
+    "name": "John Doe",
+    "role": "Frontend Developer",
+    "avatar": "https://api.dicebear.com/7.x/thumbs/svg?seed=John"
+  },
+  {
+    "id": "mem-002",
+    "name": "Sara Lee",
+    "role": "Backend Engineer",
+    "avatar": "https://api.dicebear.com/7.x/thumbs/svg?seed=Sara"
+  },
+  {
+    "id": "mem-003",
+    "name": "Mike Chan",
+    "role": "UI/UX Designer",
+    "avatar": "https://api.dicebear.com/7.x/thumbs/svg?seed=Mike"
+  },
+  {
+    "id": "mem-004",
+    "name": "Priya Nair",
+    "role": "QA Engineer",
+    "avatar": "https://api.dicebear.com/7.x/thumbs/svg?seed=Priya"
+  },
+  {
+    "id": "mem-005",
+    "name": "Daniel Wright",
+    "role": "Full Stack Developer",
+    "avatar": "https://api.dicebear.com/7.x/thumbs/svg?seed=Daniel"
+  }
+]
